@@ -1,5 +1,7 @@
 package com.example.myapplication;
 
+import com.example.myapplication.Usuario;
+
 public class  Administrador extends Usuario {
     public Administrador(String correo, String nombre, String password, String rol) {
         super(correo, nombre, password, rol);

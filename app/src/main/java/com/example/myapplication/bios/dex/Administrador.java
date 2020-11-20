@@ -1,6 +1,4 @@
-package com.example.myapplication;
-
-import com.example.myapplication.Usuario;
+package com.example.myapplication.bios.dex;
 
 public class  Administrador extends Usuario {
     public Administrador(String correo, String nombre, String password, String rol) {

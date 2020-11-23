@@ -1,6 +1,6 @@
 package com.example.myapplication.bios.dex;
 
-public class CaracteristicasArbolFiogenetico {
+class CaracteristicasArbolFiogenetico {
 
     private String filoCaracteristicas;
     private String claseCaracteristicas;

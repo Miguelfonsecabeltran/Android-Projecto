@@ -1,17 +1,32 @@
 package com.example.myapplication.bios.dex;
 
+import android.provider.ContactsContract;
+
 public class Usuario {
     private String Correo;
     private String nombre;
     private String password;
     private String rol;
+
     public Usuario(String correo, String nombre, String password, String rol) {
-        super();
         this.Correo = correo;
         this.nombre = nombre;
         this.password = password;
         this.rol = rol;
     }
+
+    public Usuario() {
+
+    }
+
+    public String getCorreo() {
+        return Correo;
+    }
+
+    public void setCorreo(String correo) {
+        Correo = correo;
+    }
+
     public String getNombre() {
         return nombre;
     }
@@ -36,11 +51,8 @@ public class Usuario {
         this.rol = rol;
     }
 
-    public String getCorreo() {
-        return Correo;
-    }
-
-    public void setCorreo(String correo) {
-        Correo = correo;
+    @Override
+    public String toString() {
+        return nombre;
     }
 }

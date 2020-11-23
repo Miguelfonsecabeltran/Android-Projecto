@@ -31,4 +31,12 @@ public class Investigador extends Usuario {
     public void setRanking(int ranking) {
         this.ranking = ranking;
     }
+
+
+
+	@Override
+	public String login() {
+		// TODO Auto-generated method stub
+		return null;
+	}
 }

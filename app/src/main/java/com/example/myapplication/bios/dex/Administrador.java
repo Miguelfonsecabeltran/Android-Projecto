@@ -44,4 +44,10 @@ public class  Administrador extends Usuario {
     public void setCorreo(String correo) {
         super.setCorreo(correo);
     }
+
+	@Override
+	public String login() {
+		// TODO Auto-generated method stub
+		return null;
+	}
 }

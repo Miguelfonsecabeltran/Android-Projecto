@@ -10,7 +10,7 @@
       "client_info": {
         "mobilesdk_app_id": "1:991896538357:android:bf08a0fbe6bf0bf3f089bc",
         "android_client_info": {
-          "package_name": "com.example.myapplication.bios.dex"
+          "package_name": "com.example.myapplication"
         }
       },
       "oauth_client": [
@@ -18,7 +18,7 @@
           "client_id": "991896538357-6v5lfgq0qkh53k2euklr57c7h1qvsa5u.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
-            "package_name": "com.example.myapplication.bios.dex",
+            "package_name": "com.example.myapplication",
             "certificate_hash": "4792954de19d2b669824fe1af589736553d42571"
           }
         },

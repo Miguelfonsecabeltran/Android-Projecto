@@ -2,7 +2,7 @@ package com.example.myapplication.bios.dex;
 
 import android.provider.ContactsContract;
 
-public class Usuario {
+public abstract class Usuario {
     private String Correo;
     private String nombre;
     private String password;
@@ -55,4 +55,5 @@ public class Usuario {
     public String toString() {
         return nombre;
     }
+    abstract public String login();
 }

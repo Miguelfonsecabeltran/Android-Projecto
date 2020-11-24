@@ -35,7 +35,7 @@ public class Investigador extends Usuario {
 
 
 	@Override
-	public String login() {
+	public String login(String correo, String nombre, String password, String rol ) {
 		// TODO Auto-generated method stub
 		return null;
 	}

@@ -55,5 +55,5 @@ public abstract class Usuario {
     public String toString() {
         return nombre;
     }
-    abstract public String login();
+    abstract public String login(String correo, String nombre, String password, String rol);
 }

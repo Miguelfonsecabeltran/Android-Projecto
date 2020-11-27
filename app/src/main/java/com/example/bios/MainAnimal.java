@@ -1,4 +1,4 @@
-package com.example.login;
+package com.example.bios;
 
 import androidx.appcompat.app.AppCompatActivity;
 
@@ -9,7 +9,7 @@ import android.widget.EditText;
 import android.widget.ListView;
 import android.widget.Toast;
 
-import com.example.login.dex.Animal;
+import com.example.bios.dex.Animal;
 import com.google.firebase.FirebaseApp;
 import com.google.firebase.database.DatabaseReference;
 import com.google.firebase.database.FirebaseDatabase;
@@ -93,7 +93,7 @@ public class MainAnimal extends AppCompatActivity {
                     animal.setDiformismo(diformismo);
                     animal.setElementoBios(elementBios);
                     animal.setDieta(dieta);
-                                                                //nombre como identificador en base de datos
+                    //nombre como identificador en base de datos
                     databaseReference.child("Animal").child(animal.getNombreAnimal()).setValue(animal);     //se crea en firebase un nodo llamado animal, dentro de ese nodo, se va a tener como principal el nombreAnimal, algo el id
                     Toast.makeText(this, "Agregado", Toast.LENGTH_LONG).show();
                     limpiarCajas();

@@ -1,4 +1,4 @@
-package com.example.login.dex;
+package com.example.bios.dex;
 
 public class Investigador extends Usuario {
     private int puntaje;

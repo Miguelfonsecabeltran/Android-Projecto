@@ -1,4 +1,4 @@
-package com.example.login.dex;
+package com.example.bios.dex;
 
 public class Administrador extends Usuario {
 

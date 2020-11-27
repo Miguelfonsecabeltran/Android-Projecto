@@ -6,7 +6,7 @@
     </shared>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b9125f2c-6bfd-4a5e-a379-ddb562add1c5" name="Default Changelist" comment="" />
+    <list default="true" id="c6ea7860-4320-406f-9a6d-05992a944c2d" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,14 +18,7 @@
       <ProjectState />
     </projectState>
   </component>
-  <component name="FileTemplateManagerImpl">
-    <option name="RECENT_TEMPLATES">
-      <list>
-        <option value="resourceFile" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectId" id="1kkflqL7efQyPsRLGfad6yWF3pw" />
+  <component name="ProjectId" id="1ktRiHxBKEAeMTFeE28MD1mS0AE" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -33,27 +26,17 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/res/menu" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/res" />
   </component>
   <component name="RecentsManager">
-    <key name="ExtractSuperBase.RECENT_KEYS">
-      <recent name="com.example.login" />
-    </key>
-    <key name="android.template.-998843493">
-      <recent name="com.example.login" />
-    </key>
-    <key name="android.template.147404210">
-      <recent name="com.example.login" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Manuel\AndroidStudioProjects\Login\app" />
+    <key name="android.template.-300042471">
+      <recent name="com.example.bios" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Users\Manuel\AndroidStudioProjects\Login\app\src\main\res\menu" />
-      <recent name="C:\Users\Manuel\AndroidStudioProjects\Login\app\src\main\res" />
-      <recent name="C:\Users\Manuel\AndroidStudioProjects\Login\app\src\main\res\layout" />
-      <recent name="C:\Users\Manuel\AndroidStudioProjects\Login\app\src\main\java\com\example\login" />
-      <recent name="C:\Users\Manuel\AndroidStudioProjects\Login\app\src\main\java\com\example\login\dex" />
+      <recent name="C:\Users\Manuel\AndroidStudioProjects\BIOS\app\src\main\res" />
+      <recent name="C:\Users\Manuel\AndroidStudioProjects\BIOS\app\src\main\res\layout" />
+      <recent name="C:\Users\Manuel\AndroidStudioProjects\BIOS\app\src\main\java\com\example\bios" />
+      <recent name="C:\Users\Manuel\AndroidStudioProjects\BIOS\app" />
     </key>
   </component>
   <component name="RunManager">
@@ -65,7 +48,7 @@
       </method>
     </configuration>
     <configuration name="app" type="AndroidRunConfigurationType" factoryName="Android App" activateToolWindowBeforeRun="false">
-      <module name="Login.app" />
+      <module name="BIOS.app" />
       <option name="DEPLOY" value="true" />
       <option name="DEPLOY_APK_FROM_BUNDLE" value="false" />
       <option name="DEPLOY_AS_INSTANT" value="false" />
@@ -104,54 +87,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="b9125f2c-6bfd-4a5e-a379-ddb562add1c5" name="Default Changelist" comment="" />
-      <created>1606249663459</created>
+      <changelist id="c6ea7860-4320-406f-9a6d-05992a944c2d" name="Default Changelist" comment="" />
+      <created>1606518027085</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1606249663459</updated>
+      <updated>1606518027085</updated>
     </task>
     <servers />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="421" y="117" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog" timestamp="1606346537286">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="421" y="117" key="#com.intellij.codeInsight.editorActions.RestoreReferencesDialog/0.0.1366.728@0.0.1366.728" timestamp="1606346537286" />
-    <state x="496" y="78" key="#com.intellij.ide.util.MemberChooser" timestamp="1606415538037">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="496" y="78" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1606415538037" />
-    <state x="108" y="100" width="1166" height="528" key="AVDManager" timestamp="1606349582744">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="108" y="100" width="1166" height="528" key="AVDManager/0.0.1366.728@0.0.1366.728" timestamp="1606349582744" />
-    <state x="271" y="117" key="AndroidCreateResourceFileDialog" timestamp="1606411677370">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="271" y="117" key="AndroidCreateResourceFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1606411677370" />
-    <state x="535" y="148" key="AndroidCreateXmlResourceDialog" timestamp="1606347521811">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="535" y="148" key="AndroidCreateXmlResourceDialog/0.0.1366.728@0.0.1366.728" timestamp="1606347521811" />
-    <state x="510" y="109" key="AndroidProcessChooserDialog" timestamp="1606349290971">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="510" y="109" key="AndroidProcessChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1606349290971" />
-    <state x="471" y="117" key="FileChooserDialogImpl" timestamp="1606410000788">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="471" y="117" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1606410000788" />
-    <state width="438" height="446" key="SwitcherDM" timestamp="1606411007408">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state width="438" height="446" key="SwitcherDM/0.0.1366.728@0.0.1366.728" timestamp="1606411007408" />
-    <state x="347" y="157" key="run.anything.popup" timestamp="1606313484305">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="347" y="157" key="run.anything.popup/0.0.1366.728@0.0.1366.728" timestamp="1606313484305" />
-    <state x="354" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1606410356195">
-      <screen x="0" y="0" width="1366" height="728" />
-    </state>
-    <state x="354" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1606410356195" />
   </component>
 </project>

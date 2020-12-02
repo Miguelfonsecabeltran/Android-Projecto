@@ -2,7 +2,9 @@
 <project version="4">
   <component name="AndroidLayouts">
     <shared>
-      <config />
+      <config>
+        <target>android-16</target>
+      </config>
     </shared>
   </component>
   <component name="BranchesTreeState">
@@ -24,10 +26,24 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="c6ea7860-4320-406f-9a6d-05992a944c2d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_register.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/bios/dex/Usuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/bios/dex/Usuario.java" afterDir="false" />
+    <list default="true" id="fa378bc7-db3d-4f97-899d-8f545b74b51e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app/src/main/java/com/example/bios/Bios.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/drawable/escanearanimal.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-hdpi/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-mdpi/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xhdpi/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxhdpi/Thumbs.db" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/mipmap-xxxhdpi/Thumbs.db" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/bios/Home.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/bios/Home.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/bios/MainAnimal.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/bios/MainAnimal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_home.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_home.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/res/layout/activity_main_animal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main_animal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,29 +60,48 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1ktRiHxBKEAeMTFeE28MD1mS0AE" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="ZY322KTKSZ" />
+    <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2020-12-01T17:27:16.489Z" />
+    <property name="ResourceManagerPrefKey.ResourceType" value="LAYOUT" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="android-custom-viewC:/Users/Manuel/.gradle/caches/modules-2/files-2.1/com.google.android.material/material/1.2.1/37d55d5141066b3d118d24232fa7025b65eb3a74/material-1.2.1-sources.jar!/com/google/android/material/button/MaterialButton.java_SELECTED" value="MaterialButton" />
+    <property name="android-custom-viewC:/Users/Manuel/AppData/Local/Android/Sdk/sources/android-30/android/view/View.java_SELECTED" value="View" />
+    <property name="android-custom-viewC:/Users/Manuel/AppData/Local/Android/Sdk/sources/android-30/android/widget/EditText.java_SELECTED" value="EditText" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/res/layout" />
+    <property name="multi-representation-previewC:/Users/Manuel/.gradle/caches/modules-2/files-2.1/com.google.android.material/material/1.2.1/37d55d5141066b3d118d24232fa7025b65eb3a74/material-1.2.1-sources.jar!/com/google/android/material/button/MaterialButton.java_selected" value="Custom views" />
+    <property name="multi-representation-previewC:/Users/Manuel/AppData/Local/Android/Sdk/sources/android-30/android/view/View.java_selected" value="Custom views" />
+    <property name="multi-representation-previewC:/Users/Manuel/AppData/Local/Android/Sdk/sources/android-30/android/widget/EditText.java_selected" value="Custom views" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.bios" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\Manuel\AndroidStudioProjects\Android-Projecto\app\src\main\res\layout" />
+      <recent name="C:\Users\Manuel\AndroidStudioProjects\BIOS\app\src\main\res\layout" />
     </key>
     <key name="android.template.-300042471">
       <recent name="com.example.bios" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Manuel\AndroidStudioProjects\Android-Projecto\app\src\main\res\layout" />
+      <recent name="C:\Users\Manuel\AndroidStudioProjects\Android-Projecto\app\src\main\res\layout-sw600dp" />
+      <recent name="C:\Users\Manuel\AndroidStudioProjects\BIOS\app\src\main\res\raw" />
       <recent name="C:\Users\Manuel\AndroidStudioProjects\BIOS\app\src\main\res" />
       <recent name="C:\Users\Manuel\AndroidStudioProjects\BIOS\app\src\main\res\layout" />
-      <recent name="C:\Users\Manuel\AndroidStudioProjects\BIOS\app\src\main\java\com\example\bios" />
-      <recent name="C:\Users\Manuel\AndroidStudioProjects\BIOS\app" />
     </key>
   </component>
   <component name="RunManager">
@@ -136,5 +171,95 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="590" y="261" key="#Custom_Plugin_Repositories" timestamp="1606918189273">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="590" y="261" key="#Custom_Plugin_Repositories/0.0.1366.728@0.0.1366.728" timestamp="1606918189273" />
+    <state x="283" y="0" width="816" height="728" key="#Intentions" timestamp="1606882550947">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="283" y="0" width="816" height="728" key="#Intentions/0.0.1366.728@0.0.1366.728" timestamp="1606882550947" />
+    <state x="208" y="94" key="#PSD" timestamp="1606887225882">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="208" y="94" key="#PSD/0.0.1366.728@0.0.1366.728" timestamp="1606887225882" />
+    <state x="410" y="164" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606930440451">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="410" y="164" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1606930440451" />
+    <state x="496" y="46" key="#com.intellij.ide.util.MemberChooser" timestamp="1606873513866">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="496" y="46" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1606873513866" />
+    <state x="421" y="153" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1606847536070">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="421" y="153" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1606847536070" />
+    <state x="421" y="109" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1606852129404">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="421" y="109" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728@0.0.1366.728" timestamp="1606852129404" />
+    <state x="108" y="100" width="1166" height="528" key="AVDManager" timestamp="1606762350960">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="108" y="100" width="1166" height="528" key="AVDManager/0.0.1366.728@0.0.1366.728" timestamp="1606762350960" />
+    <state x="535" y="148" key="AndroidCreateXmlResourceDialog" timestamp="1606768281543">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="535" y="148" key="AndroidCreateXmlResourceDialog/0.0.1366.728@0.0.1366.728" timestamp="1606768281543" />
+    <state x="510" y="109" key="AndroidProcessChooserDialog" timestamp="1606760718624">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="510" y="109" key="AndroidProcessChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1606760718624" />
+    <state x="471" y="104" key="FileChooserDialogImpl" timestamp="1606918198662">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="471" y="104" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1606918198662" />
+    <state width="1306" height="169" key="GridCell.Tab.0.bottom" timestamp="1606947977443">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="169" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1606947977443" />
+    <state width="1306" height="169" key="GridCell.Tab.0.center" timestamp="1606947977442">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="169" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1606947977442" />
+    <state width="1306" height="169" key="GridCell.Tab.0.left" timestamp="1606947977442">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="169" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1606947977442" />
+    <state width="1306" height="169" key="GridCell.Tab.0.right" timestamp="1606947977443">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="169" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1606947977443" />
+    <state width="1306" height="169" key="GridCell.Tab.1.bottom" timestamp="1606945464515">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="169" key="GridCell.Tab.1.bottom/0.0.1366.728@0.0.1366.728" timestamp="1606945464515" />
+    <state width="1306" height="169" key="GridCell.Tab.1.center" timestamp="1606945464514">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="169" key="GridCell.Tab.1.center/0.0.1366.728@0.0.1366.728" timestamp="1606945464514" />
+    <state width="1306" height="169" key="GridCell.Tab.1.left" timestamp="1606945464514">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="169" key="GridCell.Tab.1.left/0.0.1366.728@0.0.1366.728" timestamp="1606945464514" />
+    <state width="1306" height="169" key="GridCell.Tab.1.right" timestamp="1606945464514">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1306" height="169" key="GridCell.Tab.1.right/0.0.1366.728@0.0.1366.728" timestamp="1606945464514" />
+    <state x="192" y="0" key="SettingsEditor" timestamp="1606918672306">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="192" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1606918672306" />
+    <state x="534" y="120" key="refactoring.ChangeSignatureDialog" timestamp="1606771606442">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="534" y="120" key="refactoring.ChangeSignatureDialog/0.0.1366.728@0.0.1366.728" timestamp="1606771606442" />
+    <state x="354" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1606774975661">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="354" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1606774975661" />
   </component>
 </project>

@@ -118,6 +118,30 @@
                 android:layout_gravity="center_horizontal"
                 android:text="Animales Registrados" />
 
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Generar QR Code"
+                android:id="@+id/generate_qr_btn"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="10dp" />
+
+            <ImageView
+                android:layout_marginTop="5dp"
+                android:visibility="gone"
+                android:id="@+id/image_view"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_gravity="center_horizontal" />
+
+            <Button
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Descargar imagen"
+                android:id="@+id/download_image"
+                android:layout_gravity="center_horizontal"
+                android:layout_marginTop="10dp" />
+
             <ListView
                 android:id="@+id/lv_datosAnimales"
                 android:layout_width="match_parent"

@@ -25,14 +25,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c6ea7860-4320-406f-9a6d-05992a944c2d" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/bios/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/bios/MainActivity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_main.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/app/src/main/res/layout/activity_register.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/example/bios/dex/Usuario.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/example/bios/dex/Usuario.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[ZY322KTKSZ]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -50,13 +52,17 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/res" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/app/src/main/res/layout" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Manuel\AndroidStudioProjects\Android-Projecto\app\src\main\res\layout" />
+    </key>
     <key name="android.template.-300042471">
       <recent name="com.example.bios" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Manuel\AndroidStudioProjects\Android-Projecto\app\src\main\res\layout" />
       <recent name="C:\Users\Manuel\AndroidStudioProjects\BIOS\app\src\main\res" />
       <recent name="C:\Users\Manuel\AndroidStudioProjects\BIOS\app\src\main\res\layout" />
       <recent name="C:\Users\Manuel\AndroidStudioProjects\BIOS\app\src\main\java\com\example\bios" />
